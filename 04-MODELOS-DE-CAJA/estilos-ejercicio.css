@@ -1,0 +1,7 @@
+.container{
+box-sizing: border-box;
+flex-wrap: wrap;
+flex-direction: column;
+justify-content: center;
+
+}

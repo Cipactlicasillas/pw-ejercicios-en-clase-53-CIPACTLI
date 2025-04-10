@@ -1,0 +1,20 @@
+.uno{
+  background-color: aqua;
+}
+.dos {
+  background-color: blue;
+}
+.uno{
+  display: block;
+}
+.dos{
+  display: inline-block;
+}
+.tres{
+  display: inline;
+
+}
+.prueba {
+box-sizing: border-box;
+margin: auto;
+}
